@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- . 👨‍💻 I am a competitive programmer at [Codeforces, Atcoder, Leetcode,](Codeforces, Atcoder, Leetcode,)
+- 👨‍💻 I am a competitive programmer at [Codeforces, Atcoder, Leetcode,](Codeforces, Atcoder, Leetcode,)
 
 - 🌱 I am a Junior at **Faculty of Computers & Informatics at Suez Canal University.**
 
