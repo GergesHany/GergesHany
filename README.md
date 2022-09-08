@@ -8,7 +8,7 @@
 
 - 👨‍💻 I am a competitive programmer at (Codeforces, Atcoder, Leetcode,)
 
-- 🌱 I am a Junior at <a href = "Faculty of Computers & Informatics at Suez Canal University" >
+- 🌱 I am a Junior at <a href = "[Faculty of Computers & Informatics at Suez Canal University](http://suez.edu.eg/ar/?page_id=7325&lang=en)" >
    Faculty of Computers & Informatics at Suez Canal University </a>
   
 
