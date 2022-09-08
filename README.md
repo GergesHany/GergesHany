@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gerges Hany</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gergeshany&label=Profile%20views&color=0e75b6&style=flat" alt="gergeshany" /> </p>
 
@@ -9,7 +8,7 @@
 
 - 👨‍💻 I am a competitive programmer at (Codeforces, Atcoder, Leetcode,)
 
-- 🌱 I am a Junior at **Faculty of Computers & Informatics at Suez Canal University.**
+- 🌱 I am a Junior at <a href = "Faculty of Computers & Informatics at Suez Canal University"/a>
 
 <h3 align="left">My competitive programming profiles:</h3>
 <p align="left">
