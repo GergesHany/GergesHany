@@ -19,6 +19,7 @@
 <a href="https://codeforces.com/profile/gerges_hany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gerges_hany" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gerges_hany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gerges_hany" height="30" width="40" /></a>
 <a href="https://atcoder.jp/users/Gerges_Hany" target="blank"><img align="center" src="https://img.atcoder.jp/assets/icon/avatar.png" alt="gerges_hany" height="30" width="40" /></a>
+<a href="https://icpc.global/private/person/801982/ICPCID"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a> 
 </p>
 
 
