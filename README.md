@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gergeshany" alt="gergeshany" /></a> </p>
 
-<picture> <img align="right" src="https://github.com/AhmedNegm5/AhmedNegm5/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/AhmedNegm5/AhmedNegm5/blob/main/Images/Right_Side.gif?raw=true" width = 500px></picture>
 	
 ## <picture> <img src = "https://github.com/AhmedNegm5/AhmedNegm5/blob/main/Images/about_me.gif?raw=true" width = 100px>  </picture> About me
 
