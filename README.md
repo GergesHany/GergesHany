@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gergeshany&label=Profile%20views&color=0e75b6&style=flat" alt="gergeshany" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gergeshany" alt="gergeshany" /></a> </p>
-<hr>
+
 <br> 
 
 <picture> <img align="right" src="https://github.com/GergesHany/GergesHany/blob/de7934307c72562f01d7351fd37de2eb809bd404/Right_Side.gif" width = 350px></picture>
