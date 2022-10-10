@@ -27,9 +27,9 @@
 ## My competitive programming profiles
 &emsp;
 <p align="center">
-<a href="https://codeforces.com/profile/gerges_hany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gerges_hany" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gerges_hany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gerges_hany" height="30" width="40" /></a>
-<a href="https://atcoder.jp/users/Gerges_Hany" target="blank"><img align="center" src="https://img.atcoder.jp/assets/icon/avatar.png" alt="gerges_hany" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/gerges_hany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gerges_hany" height="80" width="60" /></a>
+<a href="https://www.leetcode.com/gerges_hany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gerges_hany" height="80" width="60" /></a>
+<a href="https://atcoder.jp/users/Gerges_Hany" target="blank"><img align="center" src="https://img.atcoder.jp/assets/icon/avatar.png" alt="gerges_hany" height="80" width="60" /></a>
 <a href="https://www.codechef.com/users/gergeshany"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
 <a href="https://icpc.global/private/person/801982/ICPCID"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a> 
 &emsp;
@@ -40,9 +40,9 @@
 <h3 align="left">Connect with me:</h3>
 &emsp;
 <p align="center">
-<a href="https://linkedin.com/in/gerges hany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gerges hany" height="30" width="40" /></a>
-<a href="https://fb.com/gerges hany mofed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gerges hany mofed" height="30" width="40" /></a>
-<a href="https://instagram.com/_gerges_hany_mofed_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gerges_hany_mofed_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gerges hany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gerges hany" height="80" width="60" /></a>
+<a href="https://fb.com/gerges hany mofed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gerges hany mofed" height="80" width="60" /></a>
+<a href="https://instagram.com/_gerges_hany_mofed_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gerges_hany_mofed_" height="80" width="60" /></a>
 &emsp;
 <hr> 
 
@@ -50,7 +50,7 @@
 ## Languages and Tools:
 &emsp;
 <p align="center">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="60"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="60"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="80" height="60"/> </a> 
  &emsp;
 
 </p>
