@@ -38,14 +38,16 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-&emsp;
+## Connect with me
 <p align="center">
-<a href="https://linkedin.com/in/gerges hany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gerges hany" height="80" width="60" /></a>
-<a href="https://fb.com/gerges hany mofed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gerges hany mofed" height="80" width="60" /></a>
-<a href="https://instagram.com/_gerges_hany_mofed_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gerges_hany_mofed_" height="80" width="60" /></a>
-&emsp;
-<hr> 
+	<a href="gergeshany179@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/GergesHany"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/01210968590"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/gerges-hany-855349246/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/gerges.hmofed/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/_gerges_hany_mofed_/?fbclid=IwAR0cKqcGQZZMXrNXoHL7C08xO3OUzGKlTglaeU2q-Dz5AoB1nWjoBxiKau8"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
 
 
 ## Languages and Tools:
