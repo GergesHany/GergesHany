@@ -76,19 +76,43 @@
 
 <h3 align="left">IDS:</h3>
  
-&emsp;
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GergesHany&theme=tokyonight_duo" alt="GergesHany" /></p>
+
+</details>
+  
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+----
+	
 <p align="center">
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="GergesHany Github Stats" src="https://github-readme-stats.vercel.app/api?username=GergesHany&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GergesHany&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="GergesHany" height="230px"/>
+<br/>
 
-&emsp;
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
 
-</p>
+<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
-<hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gergeshany&show_icons=true&locale=en&layout=compact" alt="gergeshany" /></p>
+----
+
+<a href="https://github.com/GergesHany"><img alt="Gerges Hany Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GergesHany&custom_title=GergesHanys%20Contribution%20Graph&theme=react-dark" /></a>
+ 
+</details>
+
+<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+
+----
 	
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gergeshany&show_icons=true&locale=en" alt="gergeshany" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GergesHany&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GergesHany" /></a> </p>
 	
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gergeshany&" alt="gergeshany" /></p>
+</details>
+
