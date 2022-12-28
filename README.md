@@ -4,9 +4,7 @@
 
 <h1 align="center">Hi , I'm Gerges Hany <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gergeshany&label=Profile%20views&color=0e75b6&style=flat" alt="gergeshany" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gergeshany" alt="gergeshany" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gergeshany&label=Profile%20views&color=0e75b6&style=flat" alt="gergeshany" /> </p>
 
 <br> 
 
