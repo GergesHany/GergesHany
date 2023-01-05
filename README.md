@@ -15,11 +15,10 @@
 
 
 - 🌱 I’m currently learning **Computer Science**
-
-- 👨‍💻 I am a competitive programmer at (Codeforces, Atcoder, Leetcode,)
-
 - 🌱 I am a Junior at <a href = "http://suez.edu.eg/ar/?page_id=7325&lang=en" >
    Faculty of Computers & Informatics at Suez Canal University </a>
+ - 👨‍💻:computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :nerd_face: Always `learning new things`.
   
 
 ## My competitive programming profiles
