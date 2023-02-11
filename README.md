@@ -36,8 +36,6 @@
 &emsp;
 <hr> 
 
-
-
 ## Connect with me
 <p align="center">
 	<a href="mailto:gergeshany179@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -48,9 +46,9 @@
 	<a href="https://www.instagram.com/_gerges_hany_mofed_/?fbclid=IwAR0cKqcGQZZMXrNXoHL7C08xO3OUzGKlTglaeU2q-Dz5AoB1nWjoBxiKau8"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
+## 🛠️ My Skills
 
-
-## Languages and Tools:
+## Programming languages:
 
 <p align="center"> 
   &emsp; 
