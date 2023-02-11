@@ -46,7 +46,11 @@
 	<a href="https://www.instagram.com/_gerges_hany_mofed_/?fbclid=IwAR0cKqcGQZZMXrNXoHL7C08xO3OUzGKlTglaeU2q-Dz5AoB1nWjoBxiKau8"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
+<br>
+	
 ## 🛠️ My Skills
+	
+<br>			
 
 ## Programming languages:
 
@@ -68,8 +72,6 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
 </p>
-
-<hr>
 
 	
  ### <picture> <img src = "https://github.com/GergesHany/GergesHany/blob/main/Software_Tools.gif" width = 50px>  </picture> Software & Tools
