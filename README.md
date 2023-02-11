@@ -34,7 +34,8 @@
 <a href="https://icpc.global/private/person/801982/ICPCID"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a> 
 <a href="https://www.codingame.com/profile/71c173e3fcb4cac7d5523e9d90199df17894864" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
 &emsp;
-<hr> 
+	
+<br> 
 
 ## Connect with me
 <p align="center">
