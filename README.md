@@ -1,7 +1,4 @@
 
-
-## <p><img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" alt="stats" width="50px"> <span style="color:pink">GitHub</span> Stats</p>
-
 <h1 align="center">Hi , I'm Gerges Hany <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center"> 
@@ -11,9 +8,9 @@
 
 <br> 
 
-<picture> <img align="right" src="https://github.com/GergesHany/GergesHany/blob/de7934307c72562f01d7351fd37de2eb809bd404/Right_Side.gif" width = 350px></picture>
+<picture> <img align="right" src="https://github.com/GergesHany/GergesHany/blob/de7934307c72562f01d7351fd37de2eb809bd404/Right_Side.gif" width = 300px></picture>
 	
-## <picture> <img src = "https://github.com/GergesHany/GergesHany/blob/c03dec873097e60aa58c24f812f4299e27f79805/about_me.gif" width = 150px>  </picture> About me
+## <picture> <img src = "https://github.com/GergesHany/GergesHany/blob/c03dec873097e60aa58c24f812f4299e27f79805/about_me.gif" width = 100px>  </picture> About me
 
 
 
