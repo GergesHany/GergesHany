@@ -5,10 +5,9 @@
 	<img src="https://komarev.com/ghpvc/?username=GergesHany&label=Profile%20views&color=0047AB&style=plastic?" alt="GergesHany" height=30px, width=180px/> 
 </p>
 
-
 <br> 
 
-<picture> <img align="right" src="https://github.com/GergesHany/GergesHany/blob/de7934307c72562f01d7351fd37de2eb809bd404/Right_Side.gif" width = 300px></picture>
+<picture> <img align="right" src="https://github.com/GergesHany/GergesHany/blob/main/00xWolf_2.gif" width = 450px></picture>
 	
 ## <picture> <img src = "https://github.com/GergesHany/GergesHany/blob/c03dec873097e60aa58c24f812f4299e27f79805/about_me.gif" width = 100px>  </picture> About me
 
