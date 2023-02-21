@@ -6,7 +6,7 @@
 </p>
 
 
-<picture> <img align="right" src="https://github.com/GergesHany/GergesHany/blob/main/Right_Side.gif" width = 450px></picture>
+<picture> <img align="right" src="https://github.com/GergesHany/GergesHany/blob/main/Right_Side.gif" width = 350px></picture>
 	
 ## <picture> <img src = "https://github.com/GergesHany/GergesHany/blob/c03dec873097e60aa58c24f812f4299e27f79805/about_me.gif" width = 100px>  </picture> 
 
