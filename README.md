@@ -5,9 +5,8 @@
 	<img src="https://komarev.com/ghpvc/?username=GergesHany&label=Profile%20views&color=0047AB&style=plastic?" alt="GergesHany" height=30px, width=180px/> 
 </p>
 
-<br> 
 
-<picture> <img align="right" src="https://github.com/GergesHany/GergesHany/blob/main/00xWolf_2.gif" width = 450px></picture>
+<picture> <img align="right" src="https://github.com/GergesHany/GergesHany/blob/main/Right_Side.gif" width = 450px></picture>
 	
 ## <picture> <img src = "https://github.com/GergesHany/GergesHany/blob/c03dec873097e60aa58c24f812f4299e27f79805/about_me.gif" width = 100px>  </picture> About me
 
@@ -155,4 +154,9 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GergesHany&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GergesHany" /></a> </p>
 	
 </details>
+	
+<picture> <img align="center" src="https://github.com/GergesHany/GergesHany/blob/main/00xWolf_2.gif" width = 650px></picture>
+
+<br> <br> 
+	
 	
