@@ -44,7 +44,7 @@
 
 <br>
 	
-## 🛠️ My Skills
+## `🛠️ My Skills`
 	
 <br>			
 
