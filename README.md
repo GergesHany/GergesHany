@@ -48,9 +48,8 @@
 
 <br><hr>
 	
-## `🛠️ My Skills:`
-	
-<br>			
+### `🛠️ My Skills:`
+			
 
 ## Programming languages:
 
