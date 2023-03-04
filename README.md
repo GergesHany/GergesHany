@@ -21,6 +21,7 @@
  - 👨‍💻:computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :nerd_face: Always `learning new things`.
   
+<hr>  
 
 ## My competitive programming profiles
 &emsp;
@@ -33,7 +34,7 @@
 <a href="https://www.codingame.com/profile/71c173e3fcb4cac7d5523e9d90199df17894864" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
 &emsp;
 	
-<br> 
+<br><hr> 
 
 ## Connect with me
 <p align="center">
@@ -45,7 +46,7 @@
 	<a href="https://www.instagram.com/_gerges_hany_mofed_/?fbclid=IwAR0cKqcGQZZMXrNXoHL7C08xO3OUzGKlTglaeU2q-Dz5AoB1nWjoBxiKau8"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<br>
+<br><hr>
 	
 ## `🛠️ My Skills:`
 	
@@ -72,6 +73,7 @@
   </a>
 </p>
 
+<hr>
 	
  ### <picture> <img src = "https://github.com/GergesHany/GergesHany/blob/main/Software_Tools.gif" width = 50px>  </picture> Software & Tools
  
@@ -92,6 +94,7 @@
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>	
 
+<hr>
 	
 <h3 align="left">IDS:</h3>
  
@@ -101,6 +104,8 @@
   &emsp;
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>	
+	
+<hr>
 	
 ### <picture> <img src = "https://github.com/GergesHany/GergesHany/blob/main/CP_PS.gif" width = 50px>  </picture> Competitive Programming & Problem Solving
  
@@ -116,7 +121,8 @@
   &emsp;
     <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>	
-
+<hr>	
+	
 ### <img src = "https://github.com/GergesHany/GergesHany/blob/main/image/OS.gif" width=5%>  Operating Systems
  
 <p align="center">
@@ -125,8 +131,7 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
-
-<br> 
+<hr> 
 
 	
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
@@ -172,6 +177,6 @@
 	
 <picture> <img align="center" src="https://github.com/GergesHany/GergesHany/blob/main/00xWolf_2.gif" width = 650px></picture>
 
-<br> <br> 
+<hr> 
 	
 	
