@@ -4,9 +4,10 @@
 </p>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=GergesHany&label=Profile%20views&color=0047AB&style=plastic?" alt="GergesHany" height=30px, width=180px/> 
+	<img src="https://komarev.com/ghpvc/?username=GergesHany&label=Profile%20views&color=0047AB&style=plastic?" alt="GergesHany" height=30px, width=190px/> 
 </p>
 
+<br>
 
 <picture> <img align="right" src="https://github.com/GergesHany/GergesHany/blob/main/Right_Side.gif" width = 350px></picture>
 	
