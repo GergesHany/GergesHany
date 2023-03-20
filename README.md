@@ -16,8 +16,7 @@
 	-->
 </p>
 
-	
-<br>
+<hr>
 
 <picture> <img align="right" src="https://github.com/GergesHany/GergesHany/blob/main/Right_Side.gif" width = 350px></picture>
 	
