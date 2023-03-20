@@ -3,10 +3,20 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programmer;Always+learning+new+things"></a>
 </p>
 
+
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=GergesHany&label=Profile%20views&color=0047AB&style=plastic?" alt="GergesHany" height=30px, width=190px/> 
+	<a href = "https://commits.top/egypt.html" target="_blank">
+		<img src="https://img.shields.io/badge/dynamic/json?label=Most%20Active%20GitHub%20User%20in%20Egypt&query=%24.rank&prefix=Rank%20&logo=github&style=for-the-badge&color=grey&labelColor=333&url=https://aktive.tk/rank/egypt/GergesHany" alt="Most Active Users" target="_blank" width=40%/> 
+	</a>
+	<img src="https://komarev.com/ghpvc/?username=GergesHany&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="GergesHany" width=19.40%/>
+	<!---
+		<a href = "https://commits.top/egypt.html" target="_blank">
+			<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="GergesHany" target="_blank" height=25px, width=250px/> 
+		</a>
+	-->
 </p>
 
+	
 <br>
 
 <picture> <img align="right" src="https://github.com/GergesHany/GergesHany/blob/main/Right_Side.gif" width = 350px></picture>
