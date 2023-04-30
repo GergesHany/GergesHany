@@ -185,6 +185,72 @@
 	
 </details>
 
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+
+----
+	
+<div>
+  <p align="center">
+	<a href="https://github.com/GergesHany/CP-Templates">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=GergesHany&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/GergesHany/GergesHany">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=GergesHany&repo=GergesHany&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/GergesHany/git-commands-cheat-sheet">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=GergesHany&repo=git-commands-cheat-sheet&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/GergesHany/object-oriented-programming-OOP-">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=GergesHany&repo=object-oriented-programming-OOP-&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/GergesHany/File-structure">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=GergesHany&repo=File-structure&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/GergesHany/Ramadan-Marathons-2023-solutions">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=GergesHany&repo=Ramadan-Marathons-2023-solutions&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/GergesHany/Find-Jobs-script">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=GergesHany&repo=Find-Jobs-script&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/GergesHany/my-problems">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=GergesHany&repo=my-problems&theme=tokyonight" alt="GitHub Stats" />
+    	</a>   
+	<a href="https://github.com/GergesHany/Competitive-Programming-Session-Content">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=GergesHany&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
+    	</a>    	     	    	
+ 	<a href="https://github.com/GergesHany/Data_Structure">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=GergesHany&repo=Data_Structure&theme=tokyonight" alt="GitHub Stats" />
+    	</a>    	     	    	
+ 	<a href="https://github.com/GergesHany/CP-Templates-Snippets">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=GergesHany&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
+    	</a>    	     	    	
+ 	<a href="https://github.com/GergesHany/mopile">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=GergesHany&repo=mopile&theme=tokyonight" alt="GitHub Stats" />
+    	</a>    	     	    	
+ 	<a href="https://github.com/GergesHany/merry_christmas_tree">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=GergesHany&repo=merry_christmas_tree&theme=tokyonight" alt="GitHub Stats" />
+    	</a>   
+	<a href="https://github.com/GergesHany/generate_a_password-">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=GergesHany&repo=generate_a_password-&theme=tokyonight" alt="GitHub Stats" />
+    	</a>    	     	    	    	    	
+ 	<a href="https://github.com/GergesHany/Digital-images">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=GergesHany&repo=Digital-images&theme=tokyonight" alt="GitHub Stats" />
+    	</a>    	     	    	    
+ 	<a href="https://github.com/GergesHany/euler_and_runge_kutta_algorithm">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=GergesHany&repo=euler_and_runge_kutta_algorithm&theme=tokyonight" alt="GitHub Stats" />
+    	</a>    	     	    	
+ 	<a href="https://github.com/GergesHany/Bank">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=GergesHany&repo=Bank&theme=tokyonight" alt="GitHub Stats" />
+    	</a> 
+    	
+  </p>
+</div>
+</details>
+
+</br></br>
+
+
+
 <hr>
 	
 <div align="center">
