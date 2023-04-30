@@ -184,15 +184,17 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GergesHany&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GergesHany" /></a> </p>
 	
 </details>
-	
-<picture> <img align="center" src="https://github.com/GergesHany/GergesHany/blob/main/00xWolf_2.gif" width = 650px></picture>
 
-<hr> 
+<hr>
 	
-	
-
 <div align="center">
 
 <a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=GergesHany&theme=react-dark&hide_border=true" /></a>
 
 </div>	
+
+<hr> 
+
+	
+<picture> <img align="center" src="https://github.com/GergesHany/GergesHany/blob/main/00xWolf_2.gif" width = 650px></picture>
+
