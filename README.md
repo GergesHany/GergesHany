@@ -190,3 +190,9 @@
 <hr> 
 	
 	
+
+<div align="center">
+
+<a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=GergesHany&theme=react-dark&hide_border=true" /></a>
+
+</div>	
