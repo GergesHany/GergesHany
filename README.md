@@ -262,8 +262,11 @@
 <hr> 
 
 
-## 🐍 snake A Snake Eating my Contributions Graph
-![snake gif](https://github.com/GergesHany/GergesHany/blob/output/github-contribution-grid-snake.gif)
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/GergesHany/GergesHany/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>	
 	
 <hr>	
 	
