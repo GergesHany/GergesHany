@@ -265,6 +265,8 @@
 ## 🐍 snake A Snake Eating my Contributions Graph
 ![snake gif](https://github.com/GergesHany/GergesHany/blob/output/github-contribution-grid-snake.gif)
 	
+<hr>	
+	
 <picture> <img align="center" src="https://github.com/GergesHany/GergesHany/blob/main/00xWolf_2.gif" width = 650px></picture>
 
 
