@@ -55,7 +55,6 @@
 	<a href="https://www.instagram.com/_gerges_hany_mofed_/?fbclid=IwAR0cKqcGQZZMXrNXoHL7C08xO3OUzGKlTglaeU2q-Dz5AoB1nWjoBxiKau8"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<br><hr>
 	
 ### `🛠️ My Skills:`
 			
@@ -80,8 +79,6 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
 </p>
-
-<hr>
 	
  ### <picture> <img src = "https://github.com/GergesHany/GergesHany/blob/main/Software_Tools.gif" width = 50px>  </picture> Software & Tools
  
@@ -102,8 +99,6 @@
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>	
 
-<hr>
-
  ### <picture> <img src = "https://github.com/GergesHany/GergesHany/blob/main/image/IDEs.gif" width = 50px>  </picture> IDS
  
 <p align="center">
@@ -112,8 +107,6 @@
   &emsp;
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>	
-	
-<hr>
 	
 ### <picture> <img src = "https://github.com/GergesHany/GergesHany/blob/main/CP_PS.gif" width = 50px>  </picture> Competitive Programming & Problem Solving
  
@@ -129,7 +122,6 @@
   &emsp;
     <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>	
-<hr>	
 	
 ### <img src = "https://github.com/GergesHany/GergesHany/blob/main/image/OS.gif" width=5%>  Operating Systems
  
@@ -141,8 +133,6 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>    
 </p>
-<hr> 
-
 	
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 	
