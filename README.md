@@ -162,9 +162,9 @@
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 ----
-
-<a href="https://github.com/GergesHany"><img alt="Gerges Hany Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GergesHany&custom_title=GergesHanys%20Contribution%20Graph&theme=react-dark" /></a>
  
+[![Gerges's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GergesHany&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)	
+	
 </details>
 
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
