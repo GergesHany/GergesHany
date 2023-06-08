@@ -32,7 +32,7 @@
   
 <hr>  
 
-## My competitive programming profiles
+## My competitive programming Profiles
 &emsp;
 <p align="center">
 <a href="https://codeforces.com/profile/gerges_hany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gerges_hany" height="80" width="60" /></a>
