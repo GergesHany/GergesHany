@@ -163,7 +163,9 @@
 
 ----
  
-[![Gerges's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GergesHany&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)	
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GergesHany&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">	
 	
 </details>
 
