@@ -22,7 +22,7 @@
 	
 ## <picture> <img src = "https://github.com/GergesHany/GergesHany/blob/c03dec873097e60aa58c24f812f4299e27f79805/about_me.gif" width = 100px>  </picture> 
 
-# **`About me`**
+# **About me**
 
 - 🌱 I’m currently learning **Computer Science**
 - 🌱 I am a Junior at <a href = "http://suez.edu.eg/ar/?page_id=7325&lang=en" >
