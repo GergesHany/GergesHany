@@ -29,6 +29,7 @@
    Faculty of Computers & Informatics at Suez Canal University </a>
  - 👨‍💻:computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :nerd_face: Always `learning new things`.
+- 📫 How to reach me **gergeshany505@gmail.com**
   
 <hr>  
 
