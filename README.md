@@ -30,7 +30,9 @@
  - 👨‍💻:computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :nerd_face: Always `learning new things`.
 - 📫 How to reach me **gergeshany505@gmail.com**
-  
+- For more info look at my <a href="https://drive.google.com/file/d/1WzOH1vgYksW-bfWlP-tDmt9LPTweaEii/view?usp=sharing" target="blank">Resume</a> 
+
+
 <hr>  
 
 ## My competitive programming Profiles
