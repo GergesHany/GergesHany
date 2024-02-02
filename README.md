@@ -1,19 +1,16 @@
 <h1 align="center">Hi, I'm Gerges Hany <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programmer;Specialist+on+codeforces;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FF0000&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programmer;Specialist+on+codeforces;Always+learning+new+things"></a>
 </p>
 
 
-<p align="center"> 
-	<a href = "https://committers.top/egypt.html" target="_blank">
-		<img src="https://img.shields.io/badge/dynamic/json?label=Most%20Active%20GitHub%20User%20in%20Egypt&query=%24.rank&prefix=Rank%20&logo=github&style=for-the-badge&color=grey&labelColor=333&url=https://aktive.tk/rank/egypt/GergesHany" alt="Most Active Users" target="_blank" width=43%/> 
-	</a>
-	<img src="https://komarev.com/ghpvc/?username=GergesHany&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="GergesHany" width=19.40%/>
-	<!---
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="GergesHany" target="_blank" height=25px, width=250px/> 
-		</a>
-	-->
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=GergesHany&color=red" width = "150">
+    <br>
+    <a href="https://commits.top/egypt.html">
+        <img src="https://en12si9ke02zgxr.m.pipedream.net"  width = "300">
+    </a>
 </p>
 	
 <hr>
