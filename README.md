@@ -4,7 +4,6 @@
 </p>
 
 
-
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=GergesHany&color=red" width = "150">
     <br>
@@ -13,7 +12,7 @@
     </a>
 </p>
 	
-<hr>
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <picture> <img align="right" src="https://github.com/GergesHany/GergesHany/blob/main/Right_Side.gif" width = 350px></picture>
 	
@@ -29,8 +28,7 @@
 - 📫 How to reach me **gergeshany505@gmail.com**
 - For more info look at my <a href="https://drive.google.com/file/d/1_3YTrAkY-Ij-KYZhia1t2GhqH5XBAhqg/view?usp=sharing" target="_blank">Resume</a> 
 
-
-<hr>  
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ## My competitive programming Profiles
 &emsp;
@@ -43,7 +41,7 @@
 <a href="https://www.codingame.com/profile/71c173e3fcb4cac7d5523e9d90199df17894864" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
 &emsp;
 	
-<br><hr> 
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ## Connect with me
 <p align="center">
@@ -133,6 +131,9 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>    
 </p>
+
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
 	
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 	
@@ -242,7 +243,7 @@
 </br></br>
 
 
-<hr> 
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 
 ## 🐍 A Snake Eating my Contributions Graph
@@ -251,7 +252,7 @@
 	<img src = "https://github.com/GergesHany/GergesHany/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>	
 	
-<hr>	
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 	
 <picture> <img align="center" src="https://github.com/GergesHany/GergesHany/blob/main/00xWolf_2.gif" width = 650px></picture>
 
