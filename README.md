@@ -21,7 +21,7 @@
 # **About me**
 
 - 🌱 I’m currently learning `Computer Science`
-- 🌱 I am a Junior at <a href = "http://suez.edu.eg/ar/?page_id=7325&lang=en" >
+- 🌱 I am a Junior at <a href = "[http://suez.edu.eg/ar/?page_id=7325&lang=en](https://www.facebook.com/profile.php?id=100063944173583)" >
    Faculty of Computers & Informatics at Suez Canal University </a>
  - 👨‍💻:computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :nerd_face: Always `learning new things`.
