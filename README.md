@@ -14,7 +14,7 @@
 	
 ## About Me 🌟
 
-I'm a third-year student at the Faculty of Computers & Informatics at Suez Canal University, Egypt. Currently, I'm delving deep into the world of back-end development, honing my skills in JavaScript, Node.js, Express.js, and mongoDB. 💻
+I'm a third-year student at the Faculty of Computers & Informatics at Suez Canal University, Egypt. Currently, I'm delving deep into the world of back-end development, honing my skills in JavaScript, Node.js, Express.js and mongoDB. 💻
 
 <br>
 
