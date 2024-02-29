@@ -32,6 +32,7 @@ I'm a third-year student at the Faculty of Computers & Informatics at Suez Canal
 
 I'm passionate about competitive programming and enjoy participating in various coding competitions such as Codeforces, Atcoder, LeetCode, CodeChef, and Google Contests , I'm always seeking new challenges to tackle and problems to solve. 🏆
 
+<br>
 
 ## Connect with Me 🌐
 
