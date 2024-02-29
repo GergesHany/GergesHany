@@ -22,7 +22,7 @@ I'm a third-year student at the Faculty of Computers & Informatics at Suez Canal
 
 - `DataBases:` SQL - SQLite - MongoDB
 - `Frameworks:` Django - Express.js - Node.js
-- `Programming:` C - C++ - JavaScript - HTML - Python - Java - CSS - Django
+- `Programming:` C - C++ - JavaScript - HTML - Python - Java - CSS
 - `Miscellaneous:` LaTeX - Markdown - Git - GitHub - MicrosoftOﬃce - postman - Linux - Trello - MongoDB compass
 - `Technical Skills:` Problem Solving - Competitive Programming - DataStructure - Algorithms - OOP - solid principles - API
 
