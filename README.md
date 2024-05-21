@@ -6,10 +6,6 @@
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=GergesHany&color=red" width = "150">
-    <br>
-    <a href="https://commits.top/egypt.html">
-        <img src="https://en12si9ke02zgxr.m.pipedream.net"  width = "300">
-    </a>
 </p>
 	
 ## About Me 🌟
