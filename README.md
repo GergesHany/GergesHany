@@ -26,7 +26,7 @@ I'm a third-year student at the Faculty of Computers & Informatics at Suez Canal
 
 ## Competitive Programming Enthusiast 💡
 
-I'm passionate about competitive programming and enjoy participating in various coding competitions such as Codeforces, Atcoder, LeetCode, CodeChef, and Google Contests , I'm always seeking new challenges to tackle and problems to solve. 🏆
+I'm passionate about competitive programming and enjoy participating in various coding competitions such as Codeforces, Atcoder, LeetCode, CodeChef, and Google Contests `and qualified to the ACPC (Africa and Arab Collegiate Programming Championship) one times` and `ranked 2nd in Egypt in the AtCoder Beginner Contest 362 ` , I'm always seeking new challenges to tackle and problems to solve. 🏆
 
 <br>
 
