@@ -10,23 +10,9 @@
 	
 ## About Me 🌟
 
-I'm a third-year student at the Faculty of Computers & Informatics at Suez Canal University, Egypt. Currently, I'm delving deep into the world of back-end development, honing my skills in JavaScript, Node.js, Express.js and mongoDB. 💻
-
-<br>
-
-## Skills 
-
-- `DataBases:` SQL - SQLite - MongoDB
-- `Frameworks:` Django - Express.js - Node.js
-- `Programming:` C - C++ - JavaScript - HTML - Python - Java - CSS
-- `Miscellaneous:` LaTeX - Markdown - Git - GitHub - MicrosoftOﬃce - postman - Linux - Trello - MongoDB compass
-- `Technical Skills:` Problem Solving - Competitive Programming - DataStructure - Algorithms - OOP - solid principles - API
-
-<br>
-
-## Competitive Programming Enthusiast 💡
-
-I'm passionate about competitive programming and enjoy participating in various coding competitions such as Codeforces, Atcoder, LeetCode, CodeChef, and Google Contests `and qualified to the ACPC (Africa and Arab Collegiate Programming Championship) one times` and `ranked 2nd in Egypt in the AtCoder Beginner Contest 362 ` , I'm always seeking new challenges to tackle and problems to solve. 🏆
+Software Engineer focused on back-end web development — Competitive Programmer — *ACPC Finalist* 
+Proficient in software engineering fundamentals with a passion for solving complex problems. Built back-end
+systems using Go/Node.js frameworks and possess an in-depth understanding of relational database internals.
 
 <br>
 
@@ -37,37 +23,3 @@ I'm passionate about competitive programming and enjoy participating in various 
 
 
 <br>
-
-
-## Let's Collaborate! 🤝
-
-I'm always open to collaboration opportunities, whether it's working on exciting projects or competing in coding contests. If you have any cool ideas or just want to chat, don't hesitate to get in touch! 💬
-
-<br>
-
-<p align='center'>
-  
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GergesHany&layout=compact&theme=radical&langs_count=8">
-
-</p>
-
-
-<br>
-
-## VOLUNTEER EXPERIENCE 🫱🏻‍🫲🏽
-
-#### ICPC SUEZ CANAL UNIVERSITY COMMUNITY Ismailia, Egypt 📍
-
-The ICPC SCU Community is a focused team that takes on the responsibility of improving the problem-solving
-skills of students from diverse backgrounds, preparing them for competitive programming challenges.
-
-### IT Specialist and Instructor
-  - Prepared sessions and worksheets. [Sessions link](https://github.com/GergesHany/Competitive-Programming-Session-Content)
-  - Instructed students in thinking techniques and algorithm analysis 
-  - Utilized Codeforces Polygon to create and prepare programming contests and problems [Problems link](https://github.com/GergesHany/my-problems)
-  - Contributed to the ACM Palestinian Collegiate Programming Contest 2023 (PCPC) ProblemSet as a tester. 
-
-
-
-
-
