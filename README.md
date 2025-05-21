@@ -10,9 +10,23 @@
 	
 ## About Me 🌟
 
-Software Engineer focused on back-end web development — Competitive Programmer — *ACPC Finalist* 
-Proficient in software engineering fundamentals with a passion for solving complex problems. Built back-end
-systems using Go/Node.js frameworks and possess an in-depth understanding of relational database internals.
+
+I am a Computer Science graduate from Suez Canal University. As a passionate problem solver, I have a deep interest in algorithms, data structures, and all basics of computer science and technology. I qualified for the regional programming contest for the Arab and African regions once, an experience that strengthened my enthusiasm for coding challenges.
+
+I am committed to continuous learning. and love sharing my knowledge with others. Sometimes, I write articles and create detailed repositories to explain comprehensive topics, including:
+
+- **Object-Oriented Programming (OOP)**: [GitHub Repository](https://github.com/GergesHany/object-oriented-programming-OOP-)  
+- **Data Structures**: [GitHub Repository](https://github.com/GergesHany/Data_Structure)  
+- **File Structures**: [GitHub Repository](https://github.com/GergesHany/File-structure)  
+- **Competitive Programming Sessions**: [GitHub Repository](https://github.com/GergesHany/Competitive-Programming-Session-Content)  
+
+I also share my knowledge through articles on LinkedIn and Hashnode. You can find my Hashnode profile [here](https://hashnode.com/@GergesHany).
+
+In terms of technical expertise, I have experience with a variety of technologies, such as:
+
+- **Back-end**: Node.js, Express.js, Golang  
+- **Front-end**: React.js, TailwindCSS, Redux-ToolKit  
+- **Databases**: MongoDB, PostgreSQL, SQL, Redis  
 
 <br>
 
