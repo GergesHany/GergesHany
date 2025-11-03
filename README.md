@@ -13,10 +13,12 @@ Some of my notable projects include:
 
 I have hands-on experience with Docker and Docker Compose, and I’m familiar with GitHub Actions for implementing CI/CD pipelines.
 
+<br>
+
 Beyond software engineering, I’m a Competitive Programmer and an ACPC Finalist, having participated in the Egyptian, Arab, and African Collegiate Programming Contests (ECPCQ, ECPC, ACPC). These experiences have strengthened my algorithmic thinking and problem-solving abilities, enabling me to tackle complex technical challenges effectively.
 
 
-<br><br>
+<br>
 
 - Check out my [**resume**](https://drive.google.com/file/d/1ecZwrOahHgCtCjPqon6XZ2CeZc5sSC7s/view?usp=sharing)
 - Feel free to reach out to me via [Gmail](mailto:gergeshany505@gmail.com) or [LinkedIn](https://www.linkedin.com/in/gergeshany/).
