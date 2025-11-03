@@ -7,9 +7,9 @@ My interests include `distributed systems, system design, and database internals
 
 Some of my notable projects include:
 
-•  [Distributed Microservice Application](https://github.com/Distributed-Microservice-Application ): (A reliable and scalable microservice architecture featuring asynchronous messaging with Apache Kafka, guaranteed delivery using the Outbox Pattern, and database replication.)
+•  [Distributed Microservice Application](https://github.com/Distributed-Microservice-Application ) A reliable and scalable microservice architecture featuring asynchronous messaging with Apache Kafka, guaranteed delivery using the Outbox Pattern, and database replication.
 
-•  [Distributed Event Streaming System](https://github.com/GergesHany/Event-Streaming-System  ) :(A custom-built distributed event streaming platform demonstrating my understanding of scalability, fault tolerance, and message-driven systems.)
+•  [Distributed Event Streaming System](https://github.com/GergesHany/Event-Streaming-System  ) A custom-built distributed event streaming platform demonstrating my understanding of scalability, fault tolerance, and message-driven systems.
 
 I have hands-on experience with Docker and Docker Compose, and I’m familiar with GitHub Actions for implementing CI/CD pipelines.
 
