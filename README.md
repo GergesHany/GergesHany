@@ -9,7 +9,9 @@ Some of my notable projects include:
 
 •  [Distributed Microservice Application](https://github.com/Distributed-Microservice-Application ) A reliable and scalable microservice architecture featuring asynchronous messaging with Apache Kafka, guaranteed delivery using the Outbox Pattern, and database replication.
 
-•  [Distributed Event Streaming System](https://github.com/GergesHany/Event-Streaming-System  ) A custom-built distributed event streaming platform demonstrating my understanding of scalability, fault tolerance, and message-driven systems.
+•  [Distributed Event Streaming System](https://github.com/GergesHany/Event-Streaming-System  ) Event-Streaming-System, a distributed, fault-tolerant log system that provides strong consistency guarantees through Raft consensus. The system allows clients to produce and consume ordered records in a distributed environment with automatic replication and failure handling.
+
+<br>
 
 I have hands-on experience with Docker and Docker Compose, and I’m familiar with GitHub Actions for implementing CI/CD pipelines.
 
