@@ -1,6 +1,5 @@
-I’m a Software Engineer specializing in Back-End Web Development, with a strong foundation in software engineering fundamentals, a passion for solving complex problems, and experience as an [Open Source Contributor](https://www.notion.so/My-Open-source-contributions-2a026b2a5734808ea4dfc1a27bd37fe3) 
+I’m a Software Engineer specializing in Backend Engineer with production experience across 25+ microservices using Node.js(Express/Nest) and Golang. Skilled in distributed systems and async messaging (RabbitMQ, Kafka)
 
-I have experience building and maintaining scalable back-end systems using `Go and Node.js(Express.js, Nest.js)`. 
 My interests include `distributed systems, system design, and database internals`.
 
 <br>
